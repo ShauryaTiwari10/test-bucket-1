@@ -1,2 +1,2 @@
 # test-bucket-1
-this is to learn pull and push
+this is to learn git and github
